@@ -1,0 +1,1 @@
+from word_games.envs.liars_dice import LiarsDiceEnv
